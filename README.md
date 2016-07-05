@@ -1,41 +1,32 @@
-# GreenLabs Aula #3 - Cenário Concluído!
-Este foi o projeto do jogo criado durante aula #3 da Série GreenLabs um produto da iniciativa GreenfootBR do DFJUG. 
-Neste projeto concluimos a programação do primeiro mundo que iremos utilizar em nosso jogo.
+# GreenLabs Aula #3 - SIM! O cenário do jogo agora tem vida.
+Esta é a aula #3 da Série GreenLabs/GreenfootBR/DFJUG. Neste aula nós utilizamos os conceitos das aulas 1 e 2 para colocar nosso mundo em movimento. Agora o nosso cenário já se movimenta de verdade.
 
 ## Conteúdo | Summary
-* A preparação e funcionamento das imagens do cenário
-* A programação final para movimentação do cenário
-* Apresentação na prática de como usar conceitos do mundo real para guiar a elaboração de uma solução
-* Usamos recursividade, incremento de variáveis, blocos IF e concatenação de string
-* Tratamos algumas exceptions
-* Concluimos nosso primeiro objetivo de ter o cenário do jogo em movimento completo.
+Nesta aula veremos:
+* Como criar um motor para automatizar a leitura de imagens;
+* Como utilizar a estrutura de repetição com o comando while;
+* Como usar nomes e definições que facilitam a programação e entendimento do código.
+
+## Repositório github
+* Para baixar o código fonte desta aula acesse: https://goo.gl/VafzPX
+
+## Fontes de conteúdo
+* Fontes da Aula
+** Imagem do cenário: http://goo.gl/9Skp1G
+
+* Fontes da Vinhenta
+** Imagens Personagem: http://goo.gl/OK1RVm, http://goo.gl/b9V67i
+** Recortes dos videos da Serie Joy Of Code: https://goo.gl/i56iS4
+** Recortes do video de jogo do user N1G3L2: https://goo.gl/iqlMWI
+** Audio e músicas: Hollywood High https://goo.gl/iqlMWI
 
 ## Equipe | Team
 
 * Daniel de Oliveira
 * Luciene Cavalcante
 * Aecio Junior
-* Jhonatan Morais - www.getjv.com.br
+* Jhonatan Morais - http://goo.gl/hoSdxW
 
 ## Para mais sobre a iniciativa GreenfootBR acesse:
-* O site da comunidade DFJUG [http://www.dfjug.org](http://www.dfjug.org)
-* O canal do DFJUG no youtube [https://www.youtube.com/user/dfjug](https://www.youtube.com/user/dfjug)
-* O site oficial do Greenfoot [www.greenfoot.org](www.greenfoot.org)
-
-## Instalação | Installation
-
-### Pré Requisitos | Prerequisites
-
-* Java 8 ou superior
-
-### Executando o Jogo | Running the game
-
-* Basta Baixar o projeto e executar o arquivo "project.greenfoot"
-
-## Licença | License
-
-> Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License.
-> You may obtain a copy of the License at
->
->    http://www.apache.org/licenses/LICENSE-2.0
->
+* O site da comunidade DFJUG http://www.dfjug.org
+* O site oficial do Greenfoot www.greenfoot.org
